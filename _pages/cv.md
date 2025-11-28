@@ -11,31 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. major in Computer Science, Shanghai Jiao Tong University, 2025 (expected)
-  * Rank **15**/103, with 21 courses getting A+ and 30 courses getting A out of the 67 courses
-  * **Zhiyuan Honor Program of Engineering** (an elite program for Top 5% talented students)
+* M.S. major in Computer Science, Shanghai Jiao Tong University, 2028 (expected).
+
+* B.S. major in Computer Science, Shanghai Jiao Tong University, 2025.
+  * Rank **11**/103, with 21 courses getting A+ and 30 courses getting A out of the 67 courses
+  * **Zhiyuan Honors Degree** (an elite program for Top 5% talented students)
 
 Research Experience
 ======
-* 2024.09 ~ *Present*, Prof. [Yulun Zhang](https://yulunzhang.com/)'s Group.
-* 2022.11 ~ 2024.08, [MVIG](https://www.mvig.org/) Lab, [RHOS](https://mvig-rhos.com/) Group, co-supervised by Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/).
+* 2024.09 - *Present*, Prof. [Yulun Zhang](https://yulunzhang.com/)'s Group, working remotely with Dr. [Jiezhang Cao](https://www.jiezhangcao.com/).
+* 2022.11 - 2024.08, [MVIG](https://www.mvig.org/) Lab, [RHOS](https://mvig-rhos.com/) Group, co-supervised by Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/).
 
 Awards
 ======
-* **Merit Student** (Top 5%), SJTU, 2022
-* **Huawei Scholarship** (Top5%), SJTU, 2023
-* **Liu Yongling Scholarship** (Top5%), SJTU, 2024
-* **Zhiyuan Honors Scholarship** (Top 5%), SJTU, 2021, 2022, 2023, 2024
-* **Merit Scholarship** (Top10%), SJTU, 2022, 2023, 2024
-* **First Prize in "Internet + Rural Revitalization" Social Practice**, SJTU, 2022
+- **National Scholarship** (Top 1%, Graduate Level), 2025
+- **Ye Jun & Shen Nanpeng Zhiyuan Outstanding Scholarship** (Top 1%), SJTU, 2025
+- **Outstanding Graduate of SJTU**, 2025
+- **Outstanding Bachelor Thesis** (Top 1%), SJTU, 2025
+- **Liu Yongling Scholarship** (Top 5%), SJTU, 2024
+- **Huawei Scholarship** (Top 5%), SJTU, 2023
+- **Zhiyuan Honors Scholarship** (Top 5%), SJTU, 2021, 2022, 2023, 2024
+- **Merit Scholarship** (Top 10%), SJTU, 2022, 2023, 2024
+- **Merit Student** (Top 5%), SJTU, 2022
+- **First Prize**, "Internet + Rural Revitalization" Social Practice, SJTU, 2022
 
 Service
 ======
-- **Vice Monitor**, F2103302 Class, SJTU, 2021.11 ~ Present  
-- **Student Union Officer**, SEIEE, SJTU, 2022.03 ~ 2023.03 
-- **Volunteer**, 1st China Embodied Intelligence Conference, 2024.03
-- **Volunteer**, Shanghai International Marathon, 2022, 2023
-- **Volunteer**, Shanghai West Bund Art Museum, 2024
+
+- **Academic Service**
+  - **Reviewer**: [PRCV 2025, ICCV 2025, NeurIPS 2025, CVPR 2026]
+  - **Volunteer**, 1st China Embodied Intelligence Conference, 2024.03
+
+
+- **Student Leadership**
+  - **Class Director**, 2025 Cohort Zhiyuan Engineering Honors Program, Zhiyuan College, SJTU, 2025.08 - Present
+  - **Publicity Officer**, CS25M031 Class, SJTU, 2025.09 - Present
+  - **Vice Monitor**, F2103302 Class, SJTU, 2021.11 - 2025.06  
+  - **Student Union Officer**, SEIEE, SJTU, 2022.03 - 2023.03 
+
+- **Community Service**
+  - **Volunteer**, Shanghai International Marathon, 2022, 2023
+  - **Volunteer**, Shanghai West Bund Art Museum, 2024
 
 <!--
 Work experience

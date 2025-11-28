@@ -10,12 +10,14 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am Xiaoyang Liu, a senior student majoring in Computer Science at Shanghai Jiao Tong University. <!-- Previously, I was working closely with Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Dr. [Xinpeng Liu](https://foruck.github.io/) at [MVIG](https://www.mvig.org/) Lab, [RHOS](https://mvig-rhos.com/) Group, co-supervised by Prof. [Cewu Lu](https://www.mvig.org/) and Prof. Yong-Lu Li. My research interests primarily focused on **Human Action Understanding, Human Object Interaction and Embodied AI**. -->
-Currently, I am collaborating closely with Prof. [Yulun Zhang](https://yulunzhang.com/) in his research group. My main research areas include **Low-Level Vision and Model compression**.
+I am Xiaoyang Liu, a first-year M.S. student majoring in Computer Science at Shanghai Jiao Tong University. <!-- Previously, I was working closely with Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Dr. [Xinpeng Liu](https://foruck.github.io/) at [MVIG](https://www.mvig.org/) Lab, [RHOS](https://mvig-rhos.com/) Group, co-supervised by Prof. [Cewu Lu](https://www.mvig.org/) and Prof. Yong-Lu Li. My research interests primarily focused on **Human Action Understanding, Human Object Interaction and Embodied AI**. -->
+Currently, I am collaborating closely with Prof. [Yulun Zhang](https://yulunzhang.com/) in his research group. My main research areas include **Low-Level Vision, Diffusion Models, and Model Compression**.
 
 # News
+- **[2025-10-09]** Awarded the 2025 National Scholarship.
+- **[2025-06-20]** Awarded the Outstanding Bachelor's Thesis of SJTU.
 - **[2024-12-10]** First paper accepted to AAAI 2025.
-- **[2024-09-29]** Successfully admitted to the 2025 Master's program (academic track) at Shanghai Jiao Tong University.
+
 - **[2024-08-26]** Enter Prof. [Yulun Zhang](https://yulunzhang.com/)'s Group.
 - **[2022-11-22]** Enter [MVIG](https://www.mvig.org/) Lab, [RHOS](https://mvig-rhos.com/) Group, co-supervised by Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/).
 - **[2021-08-19]** Admitted to Shanghai Jiao Tong University as an undergraduate student.
@@ -33,11 +35,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
