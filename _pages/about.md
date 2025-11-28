@@ -17,7 +17,6 @@ Currently, I am collaborating closely with Prof. [Yulun Zhang](https://yulunzhan
 - **[2025-10-09]** Awarded the 2025 National Scholarship.
 - **[2025-06-20]** Awarded the Outstanding Bachelor's Thesis of SJTU.
 - **[2024-12-10]** First paper accepted to AAAI 2025.
-
 - **[2024-08-26]** Enter Prof. [Yulun Zhang](https://yulunzhang.com/)'s Group.
 - **[2022-11-22]** Enter [MVIG](https://www.mvig.org/) Lab, [RHOS](https://mvig-rhos.com/) Group, co-supervised by Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/).
 - **[2021-08-19]** Admitted to Shanghai Jiao Tong University as an undergraduate student.
