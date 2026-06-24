@@ -167,4 +167,4 @@ In *AAAI 2025* | [**Paper**](https://arxiv.org/abs/2412.19542) | [**Code**](http
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2026.06 - Present*, Research Intern, Huawei.
+- Looking forward to my first intership...
