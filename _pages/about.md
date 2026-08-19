@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my homepage! I am Xiaoyang Liu (刘潇阳), a first-year M.S. student in Computer Science at Shanghai Jiao Tong University. <!-- Previously, I was working closely with Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Dr. [Xinpeng Liu](https://foruck.github.io/) at [MVIG](https://www.mvig.org/) Lab, [RHOS](https://mvig-rhos.com/) Group, co-supervised by Prof. [Cewu Lu](https://www.mvig.org/) and Prof. Yong-Lu Li. My research interests primarily focused on **Human Action Understanding, Human Object Interaction and Embodied AI**. -->
+Welcome to my homepage! I am Xiaoyang Liu (刘潇阳), a second-year M.S. student in Computer Science at Shanghai Jiao Tong University. <!-- Previously, I was working closely with Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Dr. [Xinpeng Liu](https://foruck.github.io/) at [MVIG](https://www.mvig.org/) Lab, [RHOS](https://mvig-rhos.com/) Group, co-supervised by Prof. [Cewu Lu](https://www.mvig.org/) and Prof. Yong-Lu Li. My research interests primarily focused on **Human Action Understanding, Human Object Interaction and Embodied AI**. -->
 Currently, I am collaborating closely with Prof. [Yulun Zhang](https://yulunzhang.com/) in his research group. My current research areas include **Image Restoration, Generative Models, and Model Compression**. 
-Beyond these topics, I am also highly interested in image/video generation (AIGC), post-training for multimodal large models (LLMs/VLMs), and agent development. I am actively seeking internship and collaboration opportunities in these directions. Please feel free to contact me.
+Beyond these topics, <span style="color:#d62728; font-weight:700;">I am also highly interested in image/video generation (AIGC), post-training for multimodal large models (LLMs/VLMs), and agent development. I am actively seeking internship and collaboration opportunities in these directions. Please feel free to contact me.</span>
 
 # 🔥 News
 - **[2026-06-19]** 🎉 The Freqformer paper was accepted to ECCV 2026.
@@ -37,7 +37,7 @@ Beyond these topics, I am also highly interested in image/video generation (AIGC
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/Freqformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Freqformer: Image-Demoiréing Transformer via Efficient Frequency Decomposition](https://arxiv.org/abs/2505.19120)
+[Freqformer: Image-Demoiréing Transformer via Effective Frequency Decomposition](https://arxiv.org/abs/2505.19120)
 
 **Xiaoyang Liu\***, Bolin Qiu\*, Zheng Chen, Libo Zhu, Zihan Zhou, Kai Liu, Jiezhang Cao, Yulun Zhang$\dagger$
 
@@ -109,8 +109,16 @@ In *AAAI 2025* | [**Paper**](https://arxiv.org/abs/2412.19542) | [**Code**](http
   - Ranked **11**/103, with A+ in 21 courses and A in 30 courses out of 67 courses.
   - Zhiyuan Honors Degree is an elite program for top 5% talented students.
 
-# 💼 Industry Collaborations
+# 💼 Collaborative Projects
 <div class="industry-list">
+  <div class="industry-item">
+    <div class="industry-logo"><img src="images/China_Emblem_PLA.png" alt="PLA logo"></div>
+    <div class="industry-text">
+      <strong>Confidential Project</strong>.<br>
+      <strong>Project Lead and Key Technical Contributor</strong>.
+    </div>
+  </div>
+
   <div class="industry-item">
     <div class="industry-logo"><img src="images/Huawei_Standard_logo.svg.png" alt="Huawei logo"></div>
     <div class="industry-text">
@@ -166,5 +174,5 @@ In *AAAI 2025* | [**Paper**](https://arxiv.org/abs/2412.19542) | [**Code**](http
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- Looking forward to my first intership...
+<!-- # 💻 Internships
+- Looking forward to my first intership... -->
