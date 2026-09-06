@@ -18,8 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Welcome to my homepage! I am Xiaoyang Liu (刘潇阳), a second-year M.S. student in Computer Science at Shanghai Jiao Tong University. <!-- Previously, I was working closely with Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/) and Dr. [Xinpeng Liu](https://foruck.github.io/) at [MVIG](https://www.mvig.org/) Lab, [RHOS](https://mvig-rhos.com/) Group, co-supervised by Prof. [Cewu Lu](https://www.mvig.org/) and Prof. Yong-Lu Li. My research interests primarily focused on **Human Action Understanding, Human Object Interaction and Embodied AI**. -->
-Currently, I am collaborating closely with Prof. [Yulun Zhang](https://yulunzhang.com/) in his research group. My current research areas include **Image Restoration, Generative Models, and Model Compression**. 
-Beyond these topics, <span style="color:#d62728; font-weight:700;">I am also highly interested in image/video generation (AIGC), post-training for multimodal large models (LLMs/VLMs), and agent development. I am actively seeking internship and collaboration opportunities in these directions. Please feel free to contact me.</span>
+Currently, I am collaborating closely with Prof. [Yulun Zhang](https://yulunzhang.com/) in his research group. My research areas include **Image Restoration, Generative Models, and Model Compression**. <span style="color:#d62728; font-weight:700;">Recently, my research has shifted toward **post-training and alignment of multimodal foundation models for visual understanding and generation**, including post-training for VLMs/LLMs and AIGC models. I am actively seeking internship and collaboration opportunities in these directions. Please feel free to contact me.</span>
 
 # 🔥 News
 - **[2026-06-19]** 🎉 The Freqformer paper was accepted to ECCV 2026.
@@ -109,20 +108,46 @@ In *AAAI 2025* | [**Paper**](https://arxiv.org/abs/2412.19542) | [**Code**](http
   - Ranked **11**/103, with A+ in 21 courses and A in 30 courses out of 67 courses.
   - Zhiyuan Honors Degree is an elite program for top 5% talented students.
 
+# 💻 Internships
+<div class="internship-list">
+  <div class="internship-item">
+    <div class="internship-header">
+      <div class="industry-logo industry-logo--wide"><img src="images/Huawei_Standard_logo.svg.png" alt="Huawei logo"></div>
+      <p class="internship-title"><strong>Huawei</strong>, AI Algorithm Intern, <em>2026.07 - 2026.09</em>.</p>
+    </div>
+    <ul>
+      <li>Trained VLM understanding and editing-instruction generation modules; performed multimodal SFT on Qwen3.6-35B with LLaMA-Factory, covering multi-source image-text data integration, LoRA fine-tuning, distributed training, and offline inference evaluation.</li>
+      <li>Customized the GRPO training and reward pipeline with verl: sampled multiple editing instructions per image in parallel, generated candidate results with an image-to-image model, and optimized the policy using result-level scores fused from pose and composition reward models to align editing instructions with final image quality.</li>
+      <li>Built asynchronous resource orchestration across VLMs, image-editing models, and reward models with Ray, aiohttp, vLLM, and FSDP2; developed an end-to-end optimization pipeline for content hallucination, abnormal human poses, and composition imbalance.</li>
+    </ul>
+  </div>
+
+  <div class="internship-item">
+    <div class="internship-header">
+      <div class="industry-logo"><img src="images/stepfun-color.png" alt="StepFun logo"></div>
+      <p class="internship-title"><strong>StepFun</strong>, Foundation Model Intern (Incoming), <em>2026.09 expected</em>.</p>
+    </div>
+    <ul>
+      <li>Signed offer for a foundation model internship; expected to join in September 2026.</li>
+    </ul>
+  </div>
+</div>
+
 # 💼 Collaborative Projects
 <div class="industry-list">
-  <div class="industry-item">
+  <!-- <div class="industry-item">
     <div class="industry-logo"><img src="images/China_Emblem_PLA.png" alt="PLA logo"></div>
     <div class="industry-text">
       <strong>Confidential Project</strong>.<br>
       <strong>Project Lead and Key Technical Contributor</strong>.
     </div>
-  </div>
+  </div> -->
 
   <div class="industry-item">
     <div class="industry-logo"><img src="images/Huawei_Standard_logo.svg.png" alt="Huawei logo"></div>
     <div class="industry-text">
-      <strong>Exploratory Collaboration on Image/Video Demoiréing and Flicker-Banding Removal</strong> (Huawei). <strong>Project Lead</strong>. Responsible for task investigation, new dataset construction, image/video demoiréing network design, project coordination, and delivery.
+      <strong>Exploratory Collaboration on Image/Video Demoiréing and Flicker-Banding Removal</strong> (Huawei). <strong>Project Lead</strong>. Responsible for task investigation, new dataset construction, image/video demoiréing network design, project coordination, and delivery.<br>
+      Related technical outcomes have been deployed on <strong>Huawei Pura 90</strong> series smartphones.<br>
     </div>
   </div>
 
@@ -157,7 +182,7 @@ In *AAAI 2025* | [**Paper**](https://arxiv.org/abs/2412.19542) | [**Code**](http
 
 # 🤝 Service
 - **Academic Service**
-  - **Reviewer**: PRCV 2025, ICCV 2025, NeurIPS 2025, CVPR 2026, ECCV 2026, ACM MM 2026
+  - **Reviewer**: PRCV 2025, ICCV 2025, NeurIPS 2025, CVPR 2026, ECCV 2026, ACM MM 2026, ICLR 2027
   - **Volunteer**, 1st China Embodied Intelligence Conference, 2024.03
 
 - **Student Leadership**
@@ -173,6 +198,3 @@ In *AAAI 2025* | [**Paper**](https://arxiv.org/abs/2412.19542) | [**Code**](http
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-<!-- # 💻 Internships
-- Looking forward to my first intership... -->
