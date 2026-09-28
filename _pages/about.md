@@ -21,17 +21,34 @@ Welcome to my homepage! I am Xiaoyang Liu (刘潇阳), a second-year M.S. studen
 Currently, I am collaborating closely with Prof. [Yulun Zhang](https://yulunzhang.com/) in his research group. My research areas include **Image Restoration, Generative Models, and Model Compression**. <span style="color:#d62728; font-weight:700;">Recently, my research has shifted toward **post-training and alignment of multimodal foundation models for visual understanding and generation**, including post-training for VLMs/LLMs and AIGC models. I am actively seeking internship and collaboration opportunities in these directions. Please feel free to contact me.</span>
 
 # 🔥 News
+<div class="news-scroll" role="region" aria-label="News" tabindex="0" markdown="1">
+
+- **[2026-09-28]** 🏅 Awarded the 2026 National Scholarship.
+- **[2026-09-25]** 🎉 Three papers were accepted to NeurIPS 2026: PRISM, RIFLE, and QuantDemoire.
 - **[2026-06-19]** 🎉 The Freqformer paper was accepted to ECCV 2026.
 - **[2026-01-26]** 🎉 The FideDiff paper was accepted to ICLR 2026.
 - **[2025-10-09]** 🏅 Awarded the 2025 National Scholarship.
-- **[2025-08-28]** 👨‍🏫 Appointed as the class director for the 2025 Zhiyuan Engineering Honors Program at Zhiyuan College.
+- **[2025-08-28]** 👨‍🏫 Appointed as the **class director** for the 2025 Zhiyuan Engineering Honors Program at Zhiyuan College.
 - **[2025-06-20]** 🏅 Awarded the Outstanding Bachelor's Thesis of SJTU, Ye Jun & Shen Nanpeng Zhiyuan Outstanding Scholarship.
 - **[2024-12-10]** 🎉 My first paper was accepted to AAAI 2025.
 - **[2024-08-26]** 🔬 Joined Prof. [Yulun Zhang](https://yulunzhang.com/)'s group.
 - **[2022-11-22]** 🔬 Joined [MVIG](https://www.mvig.org/) Lab, [RHOS](https://mvig-rhos.com/) Group, co-supervised by Prof. [Cewu Lu](https://www.mvig.org/) and Prof. [Yong-Lu Li](https://dirtyharrylyl.github.io/).
 
+</div>
+
 # 📝 Publications 
 \* denotes Equal Contribution, $\dagger$ denotes Corresponding Author.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/nips26.png' alt="PRISM framework for text image super-resolution" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PRISM: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution](https://arxiv.org/abs/2605.13027)
+
+Zihang Xu\*, **Xiaoyang Liu\***, Zheng Chen, Yulun Zhang$\dagger$, Xiaokang Yang
+
+In *NeurIPS 2026* | [**Paper**](https://arxiv.org/abs/2605.13027) | [**Code**](https://github.com/faithxuz/PRISM)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/Freqformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -67,21 +84,19 @@ In *AAAI 2025* | [**Paper**](https://arxiv.org/abs/2412.19542) | [**Code**](http
 </div>
 
 ## NTIRE Workshop
-- "The Fourth Challenge on Image Super-Resolution ($\times$4) at NTIRE 2026: Benchmark Results and Method Overview". Zheng Chen et al. In *CVPR 2026 Workshops (NTIRE)*. [[Paper]](https://arxiv.org/abs/2604.14558)
+- "The Fourth Challenge on Image Super-Resolution ($\times$4) at NTIRE 2026: Benchmark Results and Method Overview". Zheng Chen et al. In **CVPR 2026 Workshops (NTIRE)**. [[Paper]](https://arxiv.org/abs/2604.14558)
 
-- "The First Challenge on Mobile Real-World Image Super-Resolution at NTIRE 2026: Benchmark Results and Method Overview". Jiatong Li et al. In *CVPR 2026 Workshops (NTIRE)*. [[Paper]](https://arxiv.org/abs/2604.17306)
+- "The First Challenge on Mobile Real-World Image Super-Resolution at NTIRE 2026: Benchmark Results and Method Overview". Jiatong Li et al. In **CVPR 2026 Workshops (NTIRE)**. [[Paper]](https://arxiv.org/abs/2604.17306)
 
-- "The First Challenge on Remote Sensing Infrared Image Super-Resolution at NTIRE 2026: Benchmark Results and Method Overview". Kai Liu et al. In *CVPR 2026 Workshops (NTIRE)*. [[Paper]](https://arxiv.org/abs/2604.21312)
+- "The First Challenge on Remote Sensing Infrared Image Super-Resolution at NTIRE 2026: Benchmark Results and Method Overview". Kai Liu et al. In **CVPR 2026 Workshops (NTIRE)**. [[Paper]](https://arxiv.org/abs/2604.21312)
 
 ## Image Restoration
 - "One-Step Diffusion Model for Image Motion-Deblurring". **Xiaoyang Liu**, Yuquan Wang, Zheng Chen, Jiezhang Cao, He Zhang, Yulun Zhang$\dagger$, Xiaokang Yang. **arXiv preprint** arXiv:2503.06537. [[Paper]](https://arxiv.org/abs/2503.06537) [[Project]](https://github.com/xyLiu339/OSDD)
 
-- "PRISM: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution". Zihang Xu\*, **Xiaoyang Liu\***, Zheng Chen, Yulun Zhang$\dagger$, Xiaokang Yang. **arXiv preprint** arXiv:2605.13027. [[Paper]](https://arxiv.org/abs/2605.13027) [[Project]](https://github.com/faithxuz/PRISM)
-
-- "RIFLE: Removal of Image Flicker-Banding via Latent Diffusion Enhancement". Libo Zhu\*, Zihan Zhou\*, **Xiaoyang Liu**, Weihang Zhang, Keyu Shi, Yifan Fu, Yulun Zhang$\dagger$. **arXiv preprint** arXiv:2509.24644. [[Paper]](https://arxiv.org/abs/2509.24644) [[Project]](https://github.com/libozhu03/RIFLE) 
+- "RIFLE: Removal of Image Flicker-Banding via Latent Diffusion Enhancement". Libo Zhu\*, Zihan Zhou\*, **Xiaoyang Liu**, Weihang Zhang, Keyu Shi, Yifan Fu, Yulun Zhang$\dagger$. **NeurIPS 2026**. [[Paper]](https://arxiv.org/abs/2509.24644) [[Project]](https://github.com/libozhu03/RIFLE)
 
 ## Model Compression
-- "QuantDemoire: Quantization with Outlier Aware for Image Demoiréing". Zheng Chen\*, Kewei Zhang\*, **Xiaoyang Liu**, Weihang Zhang, Mengfan Wang, Yifan Fu, Yulun Zhang$\dagger$. **arXiv preprint** arXiv:2510.04066. [[Paper]](https://arxiv.org/abs/2510.04066) [[Project]](https://github.com/zhengchen1999/QuantDemoire)
+- "QuantDemoire: Quantization with Outlier Aware for Image Demoiréing". Zheng Chen\*, Kewei Zhang\*, **Xiaoyang Liu**, Weihang Zhang, Mengfan Wang, Yifan Fu, Yulun Zhang$\dagger$. **NeurIPS 2026**. [[Paper]](https://arxiv.org/abs/2510.04066) [[Project]](https://github.com/zhengchen1999/QuantDemoire)
 
 - "BinaryDemoire: Moiré-Aware Binarization for Image Demoiréing". Zheng Chen\*, Zhi Yang\*, **Xiaoyang Liu**, Weihang Zhang, Mengfan Wang, Yifan Fu, Linghe Kong, Yulun Zhang$\dagger$. **arXiv preprint** arXiv:2602.03176. [[Paper]](https://arxiv.org/abs/2602.03176) [[Project]](https://github.com/zhengchen1999/BinaryDemoire)
 
@@ -90,6 +105,7 @@ In *AAAI 2025* | [**Paper**](https://arxiv.org/abs/2412.19542) | [**Code**](http
 
 
 # 🎖 Honors and Awards
+- **National Scholarship** (Top 1%, Graduate Level), 2026
 - **National Scholarship** (Top 1%, Graduate Level), 2025
 - **First-Class Academic Scholarship for 2025 Master's Students**, SJTU, 2025
 - **Ye Jun & Shen Nanpeng Zhiyuan Outstanding Scholarship** (Top 1%), SJTU, 2025
@@ -116,9 +132,9 @@ In *AAAI 2025* | [**Paper**](https://arxiv.org/abs/2412.19542) | [**Code**](http
       <p class="internship-title"><strong>Huawei</strong>, AI Algorithm Intern, <em>2026.07 - 2026.09</em>.</p>
     </div>
     <ul>
-      <li>Trained VLM understanding and editing-instruction generation modules; performed multimodal SFT on 35B VLM model with LLaMA-Factory, covering multi-source image-text data integration, LoRA fine-tuning, distributed training, and offline inference evaluation.</li>
+      <li>Trained VLM understanding and editing-instruction generation modules; performed multimodal SFT on a 35B VLM with LLaMA-Factory, covering multi-source image-text data integration, LoRA fine-tuning, distributed training, and offline inference evaluation.</li>
       <li>Customized the GRPO training and reward pipeline with verl: sampled multiple editing instructions per image in parallel, generated candidate results with an image-to-image model, and optimized the policy using result-level scores fused from pose and composition reward models to align editing instructions with final image quality.</li>
-      <li>Built asynchronous resource orchestration across VLMs, image-editing models, and reward models with Ray, aiohttp, vLLM, and FSDP2; developed an end-to-end optimization pipeline for content hallucination, abnormal human poses, and composition imbalance.</li>
+      <li>Built asynchronous resource orchestration across VLMs, image-editing models, and reward models with Ray, aiohttp, vLLM, and FSDP2; developed an end-to-end optimization pipeline for content hallucination, abnormal human poses, and composition imbalance. Training was conducted on a <strong style="color:#d62728;">four-node Huawei cluster with 32 Ascend 910B NPUs</strong> in total.</li>
     </ul>
   </div>
 
@@ -147,7 +163,7 @@ In *AAAI 2025* | [**Paper**](https://arxiv.org/abs/2412.19542) | [**Code**](http
     <div class="industry-logo"><img src="images/Huawei_Standard_logo.svg.png" alt="Huawei logo"></div>
     <div class="industry-text">
       <strong>Exploratory Collaboration on Image/Video Demoiréing and Flicker-Banding Removal</strong> (Huawei). <strong>Project Lead</strong>. Responsible for task investigation, new dataset construction, image/video demoiréing network design, project coordination, and delivery.<br>
-      Related technical outcomes have been deployed on <strong>Huawei Pura 90</strong> series smartphones.<br>
+      <strong>Official documentation confirms the deployment of our technology</strong> on <strong>Huawei <span style="color:#d62728;">Pura 90</span></strong> series smartphones.<br>
     </div>
   </div>
 
@@ -186,7 +202,7 @@ In *AAAI 2025* | [**Paper**](https://arxiv.org/abs/2412.19542) | [**Code**](http
   - **Volunteer**, 1st China Embodied Intelligence Conference, 2024.03
 
 - **Student Leadership**
-  - **Class Director**, 2025 Cohort Zhiyuan Engineering Honors Program, Zhiyuan College, SJTU, 2025.08 - Present
+  - <strong style="color:#d62728;">Class Director</strong>, **2025 Cohort Zhiyuan Engineering Honors Program**, Zhiyuan College, SJTU, 2025.08 - Present
   - **Publicity Officer**, CS25M031 Class, SJTU, 2025.09 - Present
   - **Vice Monitor**, F2103302 Class, SJTU, 2021.11 - 2025.06
   - **Student Union Officer**, SEIEE, SJTU, 2022.03 - 2023.03
