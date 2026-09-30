@@ -24,13 +24,9 @@ jobs:
     - name: Fetch citation data
       working-directory: google_scholar_crawler
       env:
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
-      run: |
-        if [ -z "$GOOGLE_SCHOLAR_ID" ]; then
-          echo "::error::Set the GOOGLE_SCHOLAR_ID repository secret before running this workflow."
-          exit 1
-        fi
-        python main.py
+        # The public profile ID matches author.googlescholar in _config.yml.
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID || vars.GOOGLE_SCHOLAR_ID || 'Snk4MdEAAAAJ' }}
+      run: python main.py
     - name: Publish citation data
       working-directory: google_scholar_crawler/results
       env:

@@ -151,13 +151,13 @@ In *AAAI 2025* | [**Paper**](https://arxiv.org/abs/2412.19542) | [**Code**](http
 
 # 💼 Collaborative Projects
 <div class="industry-list">
-  <div class="industry-item">
+  <!-- <div class="industry-item">
     <div class="industry-logo"><img src="images/China_Emblem_PLA.png" alt="PLA logo"></div>
     <div class="industry-text">
       <strong>Confidential Project</strong>.<br>
       <strong>Project Lead and Key Technical Contributor</strong>.
     </div>
-  </div>
+  </div> -->
 
   <div class="industry-item">
     <div class="industry-logo"><img src="images/Huawei_Standard_logo.svg.png" alt="Huawei logo"></div>
